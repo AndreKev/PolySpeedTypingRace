@@ -1,1 +1,1 @@
-# PolySpeedTypingRace
+# Race
